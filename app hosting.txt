@@ -1,0 +1,138 @@
+				                 EC2 APP Hosting...! edited1
+
+
+server engg
+security
+database
+storage
+network
+app
+
+
+EC2 / Instance:
+		# instance Launch
+		# login to instance
+
+		# deployment
+
+
+
+Application...?
+
+	# Static ( all content is same for all user)
+	# Dynamic (all content will be change depends on user)
+
+
+
+Architechture...?
+
+	# 2 tier
+	# 3 tier
+
+
+DEV -> CODE -> MIDDELWARE -> SERVER--> DEPLOYMENT
+
+
+DEV CODE FORMAT:
+ 
+  	# WAR(Web Archive) 	  - > Static
+	# JAR(Java Archive) 	  - > Dynamic
+	# EAR(Enterprise Archive) - > WAR + JAR
+
+
+
+WINDOWS MIDDELWARE:
+ 
+	# IIS -> Internet information Service
+
+
+LINUX MIDDELWARE:
+
+	# Apache -> httpd
+	# Tomcat
+	# Nginx
+	# Webspher
+	# weblogic
+	# Jboss
+
+
+HTTP --> Hyper text transport protocal
+
+HTTPS --> Hyper text transport protocal Secure
+
+
+ 	
+#winscp -> to copy file from local pc to remote server
+
+
+#chmod 777
+
+ 7 7 7
+ U G O
+
+ R -4
+ W -2
+ X -1
+
+
+ LINUX COMMANDS:
+
+ ec2-user
+ sudo su / sudo -i
+ pwd
+ yum update
+ yum install httpd
+ y
+ service httpd status
+ service httpd start
+ service httpd status
+ cd /var/www/html
+ ls - 
+ ls - > total -0
+ chmod 777 /var/www/html
+ ls
+
+
+ TASK : How to copy ur code from ur local pc to remote server through cmd..?
+
+ TASK : 2 tier vs 3 tier Arch....?
+ 
+ TASK : Practice ur today class without using video...!
+
+
+======================================XXXXXXXXXXXX==============================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
