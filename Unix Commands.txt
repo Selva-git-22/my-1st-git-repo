@@ -13,6 +13,8 @@ Authenticating with public key "imported-openssh-key" from agent
        _|  (     /   Amazon Linux 2 AMI
       ___|\___|___|
 
+
+
 https://aws.amazon.com/amazon-linux-2/
 15 package(s) needed for security, out of 31 available
 Run "sudo yum update" to apply all updates.
